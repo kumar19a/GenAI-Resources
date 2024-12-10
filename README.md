@@ -1,4 +1,4 @@
-# :star: :bookmark: awesome-generative-ai-guide
+# awesome-generative-ai-guide
 
 Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 
@@ -6,7 +6,7 @@ Happy Learning!
 
 ---
 
-## :speaker: Announcements
+## Announcements
 
 - List of free GenAI courses ([Click Here](https://github.com/aishwaryanr/awesome-generative-ai-guide#book-list-of-free-genai-courses))
 - Generative AI resources and roadmaps
@@ -20,7 +20,7 @@ Happy Learning!
 ---
 
 
-## :mortar_board: Courses
+## Courses
 
 #### [Ongoing] Applied LLMs Mastery 2024
 
