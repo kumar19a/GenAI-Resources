@@ -21,12 +21,12 @@ Happy Learning!
 
 ## Courses
 
-#### [Ongoing] Applied LLMs Mastery 2024
+#### Applied LLMs Mastery 2024
 
 
 
 
-🗓️\*Week 1 **\*: [Practical Introduction to LLMs](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md)**
+🗓️\* Week 1 **\*: [Practical Introduction to LLMs](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md)**
 
 - Applied LLM Foundations
 - Real World LLM Use Cases
