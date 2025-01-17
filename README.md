@@ -26,13 +26,13 @@ Happy Learning!
 
 
 
-🗓️\ Week 1 \*: [Practical Introduction to LLMs](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md)**
+🗓️\ Week 1 \: [Practical Introduction to LLMs](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md)**
 
 - Applied LLM Foundations
 - Real World LLM Use Cases
 - Domain and Task Adaptation Methods
 
-🗓️\*Week 2 **\*: [Prompting and Prompt
+🗓️\ Week 2 \: [Prompting and Prompt
 Engineering](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week2_prompting.md)**
 
 - Basic Prompting Principles
